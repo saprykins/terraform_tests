@@ -7,7 +7,7 @@ terraform {
 }
 provider "google" {
   version = "3.5.0"
-  project = "qwiklabs-gcp-02-f833af48a856"
+  project = "<PROJECT_ID>"
   region  = "us-central1"
   zone    = "us-central1-c"
 }
