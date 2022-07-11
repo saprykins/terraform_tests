@@ -30,8 +30,7 @@ Destroy created infrastructure by
 terraform destroy
 ```
 
-More details on explicit and implicit dependencies are  
-
+More details on explicit and implicit dependencies are
 [here](https://partner.cloudskillsboost.google/focuses/16374?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=17479657)
 
 The link works only for partners
