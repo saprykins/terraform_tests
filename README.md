@@ -25,3 +25,7 @@ To check what was created:
 ```
 terraform show
 ```
+Destroy created infrastructure by  
+```
+terraform destroy
+```
