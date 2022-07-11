@@ -5,7 +5,9 @@ Get project_id
 gcloud config list project
 ```
 Replace the "<PROJECT_ID>" by project_id  
+  
 Create main.tf file  
+  
 Copy content from github main.tf file  
 
 Initialize local settings where main.tf file is located    
